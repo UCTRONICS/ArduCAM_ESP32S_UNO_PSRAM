@@ -8,8 +8,8 @@
       "websiteURL": "https://github.com/ArduCAM", 
       "platforms": [
         {
-          "category": "ArduCAM ESP32S Boards", 
-          "name": "ArduCAM ESP32S Boards", 
+          "category": "ArduCAM ESP32S UNO PSRAM", 
+          "name": "ArduCAM ESP32S UNO PSRAM", 
           "url": "https://github.com/UCTRONICS/ArduCAM_ESP32S_UNO_PSRAM/raw/master/ArduCAM_ESP32S_UNO_PSRAM.zip", 
           "checksum": "SHA-256:BAF73BCCF0766195CBB604A9F31FE9F92A33D1FD52E168FA733CBC71CDE77C80", 
           "help": {
@@ -25,17 +25,17 @@
           ], 
           "toolsDependencies": [
             {
-              "packager": "esp32", 
+              "packager": "ArduCAM_ESP32S", 
               "version": "1.22.0-80-g6c4433a-5.2.0", 
               "name": "xtensa-esp32-elf-gcc"
             }, 
             {
-              "packager": "esp32", 
+              "packager": "ArduCAM_ESP32S", 
               "version": "2.6.1", 
               "name": "esptool_py"
             }, 
             {
-              "packager": "esp32", 
+              "packager": "ArduCAM_ESP32S", 
               "version": "0.2.3", 
               "name": "mkspiffs"
             }
