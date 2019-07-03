@@ -9,7 +9,7 @@
       "platforms": [
         {
           "category": "ESP32", 
-          "name": "esp32", 
+          "name": "ArduCAM ESP32S UNO PSRAM", 
           "url": "https://github.com/UCTRONICS/ArduCAM_ESP32S_UNO_PSRAM/raw/master/ArduCAM_ESP32S_UNO_PSRAM.zip", 
           "checksum": "SHA-256:BAF73BCCF0766195CBB604A9F31FE9F92A33D1FD52E168FA733CBC71CDE77C80", 
           "help": {
