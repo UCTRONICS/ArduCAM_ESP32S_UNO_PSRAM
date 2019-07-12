@@ -11,7 +11,7 @@
           "category": "ArduCAM ESP32S Boards", 
           "name": "ArduCAM ESP32S Boards", 
           "url": "https://github.com/UCTRONICS/ArduCAM_ESP32S_UNO_PSRAM/raw/master/ArduCAM_ESP32S_UNO_PSRAM.zip", 
-          "checksum": "SHA-256:B37918800227F3F28764BBF7675B0683B5F8288284C162E795C9D407202681EC", 
+          "checksum": "SHA-256:83D64CC6EFB0257E36D63868D2B743480F411676DDBB72B5E66A3A3D2B1227E4", 
           "help": {
             "online": ""
           }, 
@@ -40,7 +40,7 @@
               "name": "mkspiffs"
             }
           ], 
-          "size": "36118528"
+          "size": "36139008"
         }
       ], 
       "tools": [
