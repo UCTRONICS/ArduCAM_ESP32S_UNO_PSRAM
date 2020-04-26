@@ -5,7 +5,7 @@
       "help": {
         "online": "http://esp32.com"
       }, 
-      "websiteURL": "https://github.com/ArduCAM", 
+      "websiteURL": "https://www.arducam.com/product/b0192-arducam-iotai-esp32-uno-psram-ov2640-camera/", 
       "platforms": [
         {
           "category": "ArduCAM ESP32S Boards", 
@@ -15,7 +15,7 @@
           "help": {
             "online": ""
           }, 
-          "version": "1.0.1", 
+          "version": "1.0.0", 
           "architecture": "esp32", 
           "archiveFileName": "ArduCAM_ESP32S_UNO_PSRAM.zip", 
           "boards": [
