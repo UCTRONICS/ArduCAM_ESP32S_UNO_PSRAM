@@ -15,7 +15,7 @@
           "help": {
             "online": ""
           }, 
-          "version": "1.0.0", 
+          "version": "1.0.1", 
           "architecture": "esp32", 
           "archiveFileName": "ArduCAM_ESP32S_UNO_PSRAM.zip", 
           "boards": [
